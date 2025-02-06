@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__
+
+# Django
+*.log
+*.sqlite3
+db.sqlite3
+media/
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+venv/
+env/
+
+# IDE configurations
+.idea/
+*.sublime-project
+*.sublime-workspace
+
